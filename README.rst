@@ -41,8 +41,5 @@ License
 The project is licensed under the BSD license.
 
 - https://karinov.co.id - jasa digital marketing indonesia
-- https://www.tnol.co.id - forum modifikasi otomotif indonesia
-- https://blogs.itb.ac.id/wikia - catatan hidup mahasiswa wikia alfa
-- https://blogs.itb.ac.id/feeds - kumpulan tautan berita terbaru indonesia
+- https://www.autobild.co.id/ - direktori service center dan brand ternama Indonesia
 - https://www.navi.id - navigator panduan cara indonesia
-- https://www.pelita.or.id - harian pelita portal informasi terkini
