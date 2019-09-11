@@ -11,12 +11,12 @@ Jasa Website dan SEO berbasis Infrastruktur Google ‒ Karinov.co.id
 `Internet Marketing Indonesia <https://karinov.co.id>`_ | `Jasa Pembuatan Web WordPress <https://karinov.co.id/jasa-website/>`_ | `Jasa SEO <https://karinov.co.id/jasa-seo/>`_
 
 
-Forum Modifikasi Otomotif | TNOL.co.id
+Direktori Service Center Brand Ternama Indonesia | TNOL.co.id
 ==================
 
-`Alexa Forum modifikasi otomotif Indonesia <https://www.alexa.com/siteinfo/tnol.co.id>`_  Fokus mengulas seputar dunia otomotif, mobil dan motor, serta perkembangan dunia modifikasi terbaru. Berisi kumpulan tips serta foto keren mobil dan motor kustom dari berbagai merk ternama seperti Honda, Toyota, Mercedes benz, dan lainnya.
+`Kumpulan alamat service center Indonesia <https://www.autobild.co.id/p/sitemap.html>`_  Fokus mengulas seputar dunia otomotif, mobil dan motor, serta perkembangan dunia modifikasi terbaru. Berisi kumpulan tips serta foto keren mobil dan motor kustom dari berbagai merk ternama seperti Honda, Toyota, Mercedes benz, dan lainnya.
 
-`Forum Modifikasi Otomotif <https://www.tnol.co.id>`_ | `Modifikasi Mobil <https://www.tnol.co.id/modifikasi-mobil/>`_ | `Modifikasi Motor <https://www.tnol.co.id/modifikasi-motor/>`_
+`Direktori Service Center <https://www.autobild.co.id>`_
 
 Portal Modifikasi Otomotif Rujukan Indonesia
 ==================
@@ -31,7 +31,7 @@ Tips Modifikasi bagi Pemula
 Navigator Online Indonesia
 ==================
 
-`Navigator panduan cara Indonesia <https://www.navi.id>`_ - Kumpulan artikel panduan cara berbahasa Indonesia dari berbagai bidang mulai dari bisnis, keluarga hingga pendidikan.
+`Navigator panduan pariwisata Indonesia <https://www.navi.id>`_ - Kumpulan artikel panduan cara berbahasa Indonesia dari berbagai bidang mulai dari bisnis, keluarga hingga pendidikan.
 
 - `navi profile <http://jobs.millennium.edu/user-44025.html>`_
 - `kumpulan budaya indonesia <https://budaya.readthedocs.io/en/latest/>`_
