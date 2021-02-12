@@ -8,7 +8,7 @@ Jasa Website dan SEO berbasis Infrastruktur Google ‒ Karinov.co.id
 
 `Alexa Karinov.co.id <https://www.alexa.com/siteinfo/karinov.co.id>`_ - Your next digital partner. Dunia terus bergerak, meninggalkan mereka yang tidak sepakat. Kami percaya bahwa perubahan dalam bisnis adalah satu hal yang niscaya. Karinov.co.id hadir untuk menjadi tempat bertanya seputar ini dan harus ada jawabnya. Kami membantu bisnis Anda berkembang di era digital lewat layanan website dan optimasi SEO. Powered by Google Cloud Platform. Hire Us!
 
-`Internet Marketing Indonesia <https://karinov.co.id>`_ | `Jasa Pembuatan Web WordPress <https://karinov.co.id/jasa-website/>`_ | `Jasa SEO <https://karinov.co.id/jasa-seo/>`_
+`Cara Selamatkan Akun Facebook Dihack <https://www.autobild.co.id/2021/02/cara-mengembalikan-akun-fb-yang-dibajak.html>`_ | `Sound of Text <https://www.fedora.or.id/2020/06/sound-of-text-cara-mudah-konversi-text.html>`_ | `Jasa SEO <https://karinov.co.id/jasa-seo/>`_
 
 
 Direktori Service Center Brand Ternama Indonesia | TNOL.co.id
