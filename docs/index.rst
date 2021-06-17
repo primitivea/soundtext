@@ -27,7 +27,7 @@ Botika Online
 
 Salah satu situs yang bisa diandalkan untuk mengubah teks menjadi suara adalah Botika. Apa yang menarik dari situs ini adalah Anda bisa mengubah teks yang ditulis menjadi suara dengan efek suara wanita Indonesia asli. 
 
-Tidak hanya itu, cara menggunakan situs `Botika Text to Speech<https://whitepaper.co.id/suara-google-botika-jadi-notifikasi-wa/>`_ pun sangat mudah, yaitu:
+Tidak hanya itu, cara menggunakan situs `Botika Text to Speech <https://whitepaper.co.id/suara-google-botika-jadi-notifikasi-wa/>`_ pun sangat mudah, yaitu:
 
 1. Buka situs https://botika.online/TextToSpeech/ secara langsung menggunakan device Anda
 2. Jika sudah, tulis teks yang ingin diubah menjadi suara pada kolom text to speech yang tersedia
