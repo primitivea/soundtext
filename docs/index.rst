@@ -58,7 +58,8 @@ Nah, dengan cara tersebut Anda bisa membuat suara menggunakan aneka efek yang lu
 
 Beberapa opsi di atas merupakan daftar aplikasi untuk ubah teks jadi suara secara online yang bisa Anda gunakan. Sebagai tambahan, Anda bisa menggunakan situs Voice Maker jika ingin membuat suara dengan efek anak kecil. Nah, bandingkan beberapa situs di atas dan pilih mana yang sesuai dengan keinginan!
 
-Resourcces: 
+Resources: 
+==================
 - `nada dering wa suara google <https://whitepaper.co.id/cara-nada-dering-wa-suara-google/>`_
 - `download suara google text <https://www.dmo.or.id/download-suara-google-text-untuk-wa/>`_
 - `sound of text <https://www.sebuahutas.com/2021/04/cara-pakai-sound-of-text-untuk-whatsapp.html>`_
