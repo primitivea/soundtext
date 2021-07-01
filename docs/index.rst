@@ -10,6 +10,9 @@ Apakah Anda ingin mengubah teks menjadi suara dengan mudah untuk video singkat y
 
 Perlu diketahui, memilih cara online untuk mengubah teks menjadi suara adalah pilihan yang tepat. Dengan cara online tersebut, tentu Anda nantinya tidak perlu mengunduh aplikasi tertentu yang mungkin membuat memori device Anda menjadi penuh.
 
+`Vietnamese text to speech <https://karinov.co.id/vietnamese-text-to-speech/>`_
+`Fiilipino text to speech <https://www.voiceoftext.com/p/filipino-text-to-speech.html>`_
+
 Lantas, apa saja aplikasi online yang bisa diandalkan untuk mengubah teks menjadi suara tersebut? Simak ulasan selengkapnya!
 
 `Cara Buat Nada Dering WA Suara Google <https://karinov.co.id/buat-nada-dering-wa-suara-google/>`_ | `Botika Text to Speech WA <https://www.dmo.or.id/botika-text-to-speech-wa/>`_ | `Voice of Text <https://www.voiceoftext.com/>`_
