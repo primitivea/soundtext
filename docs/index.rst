@@ -10,8 +10,9 @@ Apakah Anda ingin mengubah teks menjadi suara dengan mudah untuk video singkat y
 
 Perlu diketahui, memilih cara online untuk mengubah teks menjadi suara adalah pilihan yang tepat. Dengan cara online tersebut, tentu Anda nantinya tidak perlu mengunduh aplikasi tertentu yang mungkin membuat memori device Anda menjadi penuh.
 
-`Vietnamese text to speech <https://karinov.co.id/vietnamese-text-to-speech/>`_
-`Fiilipino text to speech <https://www.voiceoftext.com/p/filipino-text-to-speech.html>`_
+- `Vietnamese text to speech <https://karinov.co.id/vietnamese-text-to-speech/>`_
+- `Fiilipino text to speech <https://www.voiceoftext.com/p/filipino-text-to-speech.html>`_
+- `Tagalog text to speech <https://karinov.co.id/tagalog-text-to-speech/>`_
 
 Lantas, apa saja aplikasi online yang bisa diandalkan untuk mengubah teks menjadi suara tersebut? Simak ulasan selengkapnya!
 
