@@ -10,7 +10,7 @@ Apakah Anda ingin mengubah teks menjadi suara dengan mudah untuk video singkat y
 
 Perlu diketahui, memilih cara online untuk mengubah teks menjadi suara adalah pilihan yang tepat. Dengan cara online tersebut, tentu Anda nantinya tidak perlu mengunduh aplikasi tertentu yang mungkin membuat memori device Anda menjadi penuh.
 
-- `Vietnamese text to speech <https://karinov.co.id/vietnamese-text-to-speech/>`_
+- `Sound text di WhatsApp <https://www.giftcard.co.id/cara-sound-text-wa-terbaik/>`_
 - `Fiilipino text to speech <https://www.voiceoftext.com/p/filipino-text-to-speech.html>`_
 - `Tagalog text to speech <https://karinov.co.id/tagalog-text-to-speech/>`_
 
@@ -24,7 +24,7 @@ Rekomendasi Aplikasi Mengubah Teks Menjadi Suara Secara Online
 
 Sebenarnya, ada cukup banyak situs yang bisa dijadikan tool untuk mengubah teks menjadi suara dengan lebih mudah. Tentu, beberapa situs tersebut akan memberikan keleluasaan bagi Anda untuk memilihnya.
 
-Nah, untuk memudahkan, beberapa situs ini bisa menjadi referensi yang tepat untuk Anda. Apa saja? Lihat selengkapnya!
+Nah, untuk memudahkan, beberapa situs yang ada dalam daftar `Sound of text WA <https://www.griyawisata.com/2021/08/daftar-sound-of-text-whatsapp-terbaru.html>`_ bisa menjadi referensi yang tepat untuk Anda. Apa saja? Lihat selengkapnya!
 
 Botika Online
 ==================
