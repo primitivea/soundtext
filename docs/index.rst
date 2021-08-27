@@ -6,7 +6,7 @@
 Aplikasi Untuk Ubah Teks Jadi Suara Secara Online Sound of Text
 ==================
 
-Apakah Anda ingin mengubah teks menjadi suara dengan mudah untuk video singkat yang dibuat? Saat ini, ada cukup banyak aplikasi yang bisa diandalkan untuk membantu Anda mengubah teks menjadi suara narasi dengan sangat mudah. Nah, untuk memudahkan Anda, ada beberapa referensi terkait daftar aplikasi untuk ubah teks jadi suara secara online terpercaya dan mudah digunakan.
+Apakah Anda ingin mengubah teks menjadi suara dengan mudah untuk video singkat yang dibuat? Saat ini, ada cukup banyak aplikasi yang bisa diandalkan untuk membantu Anda mengubah teks menjadi suara narasi dengan sangat mudah. Nah, untuk memudahkan Anda, ada beberapa referensi terkait daftar aplikasi `sound of text wa <https://www.voiceoftext.com/2021/08/sound-of-text-whatsapp-terbaru-63.html>`_ untuk ubah teks jadi suara secara online terpercaya dan mudah digunakan.
 
 Perlu diketahui, memilih cara online untuk mengubah teks menjadi suara adalah pilihan yang tepat. Dengan cara online tersebut, tentu Anda nantinya tidak perlu mengunduh aplikasi tertentu yang mungkin membuat memori device Anda menjadi penuh.
 
@@ -68,3 +68,4 @@ Resources:
 - `download suara google text <https://www.dmo.or.id/download-suara-google-text-untuk-wa/>`_
 - `sound of text <https://www.sebuahutas.com/2021/04/cara-pakai-sound-of-text-untuk-whatsapp.html>`_
 - `sound of text jawa <https://www.sebuahutas.com/2021/06/download-sound-of-text-jawa-mp3-teks.html>`_
+- `sound of text suara natural dan robot <https://www.fedora.or.id/2021/08/sound-of-text-wa-buat-suara-natural.html>`_
