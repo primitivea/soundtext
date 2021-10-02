@@ -45,13 +45,13 @@ Lihat pula: `Nada Dering WA Ada Namanya <https://oke.or.id/cara-nada-dering-wa-a
 
 Vo Codes
 ==================
-Ingin membuat suara yang unik seperti kartun? Nah, Vo Codes bisa menjadi situs yang Anda gunakan untuk mendapatkan efek suara tersebut. Situs ini termasuk dalam salah satu daftar aplikasi untuk ubah teks jadi suara secara online menarik yang bisa dijadikan pilihan.
+Ingin membuat suara `sound of text wa <https://www.autobild.co.id/2021/10/sound-of-text-notifikasi-wa-lucu-dengan.html>`_yang keren dan unik seperti kartun? Nah, Vo Codes bisa menjadi situs yang Anda gunakan untuk mendapatkan efek suara tersebut. Situs ini termasuk dalam salah satu daftar aplikasi untuk ubah teks jadi suara secara online menarik yang bisa dijadikan pilihan.
 
 Di dalam situs ini, terdapat cukup banyak efek suara kartun yang tersedia, seperti Sponge bob ataupun tokoh anime lainnya. Namun, situs ini hanya bisa digunakan untuk mengubah teks bahasa Inggris saja. Oleh karenanya, pastikan Anda sudah menerjemahkan teks tersebut sebelumnya.
 
 Nah, untuk menggunakan situs ini, ikuti langkah berikut:
 
-1. Buka situs https://vo.codes/ dengan menggunakan device Anda
+1. Ketik situs vo.codes menggunakan browser di ponsel Anda
 2. Jika sudah, langsung saja pilih jenis suara cartoons and anime yang ada pada opsi kolom all voices
 3. Pilih karakter yang Anda sukai, seperti misalnya Sponge Bob 
 4. Masukkan teks dalam bahasa Inggris yang ingin diubah menjadi suara pada kolom yang disediakan
