@@ -11,7 +11,7 @@ Apakah Anda ingin mengubah teks menjadi suara dengan mudah untuk video singkat y
 Perlu diketahui, memilih cara online untuk mengubah teks menjadi suara adalah pilihan yang tepat. Dengan cara online tersebut, tentu Anda nantinya tidak perlu mengunduh aplikasi tertentu yang mungkin membuat memori device Anda menjadi penuh.
 
 - `Sound of text whatsapp <https://www.technolati.com/2021/12/sound-of-text-wa-suara-anime-dan-wanita.html>`_
-- `Fiilipino text to speech <https://www.voiceoftext.com/p/filipino-text-to-speech.html>`_
+- `German text to speech <https://www.voiceoftext.com/p/german-text-to-speech.html>`_
 - `Tagalog text to speech <https://karinov.co.id/tagalog-text-to-speech/>`_
 
 Lantas, apa saja aplikasi online yang bisa diandalkan untuk mengubah teks menjadi suara tersebut? Simak ulasan selengkapnya!
@@ -45,7 +45,7 @@ Lihat pula: `Nada Dering WA Ada Namanya <https://oke.or.id/cara-nada-dering-wa-a
 
 Vo Codes
 ==================
-Ingin membuat suara `sound of text wa <https://www.autobild.co.id/2021/10/sound-of-text-notifikasi-wa-lucu-dengan.html>`_yang keren dan unik seperti kartun? Nah, Vo Codes bisa menjadi situs yang Anda gunakan untuk mendapatkan efek suara tersebut. Situs ini termasuk dalam salah satu daftar aplikasi untuk ubah teks jadi suara secara online menarik yang bisa dijadikan pilihan.
+Ingin membuat suara `sound of text wa <https://www.autobild.co.id/2021/10/sound-of-text-notifikasi-wa-lucu-dengan.html>`_ yang keren dan unik seperti kartun? Nah, Vo Codes bisa menjadi situs yang Anda gunakan untuk mendapatkan efek suara tersebut. Situs ini termasuk dalam salah satu daftar aplikasi untuk ubah teks jadi suara secara online menarik yang bisa dijadikan pilihan.
 
 Di dalam situs ini, terdapat cukup banyak efek suara kartun yang tersedia, seperti Sponge bob ataupun tokoh anime lainnya. Namun, situs ini hanya bisa digunakan untuk mengubah teks bahasa Inggris saja. Oleh karenanya, pastikan Anda sudah menerjemahkan teks tersebut sebelumnya.
 
