@@ -62,6 +62,18 @@ Nah, dengan cara tersebut Anda bisa membuat suara menggunakan aneka efek yang lu
 
 Beberapa opsi di atas merupakan daftar aplikasi untuk ubah teks jadi suara secara online yang bisa Anda gunakan. Sebagai tambahan, Anda bisa menggunakan situs Voice Maker jika ingin membuat suara dengan efek anak kecil. Nah, bandingkan beberapa situs di atas dan pilih mana yang sesuai dengan keinginan!
 
+Tanya Jawab Sound of text
+=================
+
+- Apa itu text to speech?
+Text to speech adalah proses perubahan kata-kata menjadi audio digital yang umumnya dibuat dari situs tertentu dan aplikasi di smartphone.
+
+- Apakah Botika Online tersedia dalam bentuk aplikasi?
+Botika Online tidak hanya dalam bentuk situs web saja melainkan hadir dalam bentuk aplikasi. Kamu bisa menggunakan versi aplikasi dan hingga saat ini hanya tersedia di Google Play dan belum ada di App Store. Lebih lanjut kamu bisa merujuk ke artikel `Botika text to speech <https://www.technolati.com/2022/04/cara-botika-text-to-speech-wa-jadi-nada.html>`_ terbaru berikut ini.
+
+- Selain sound of text dan Botika, adakah alat text to speech gratis lainnya yang bisa bahasa Indonesia?
+Ya ada, kamu bisa menggunakan aplikasi text to speech yang cukup populer dalam mode gratis seperti Voiceoftext.com, Voicemaker.in, FreeTTS.com, Wideo Text to speech, Fakeyou.com. Semuanya tersedia dalam versi gratis, uniknya, kamu bisa menggunakan suara pria bahkan membuat suara kartun dnegan tools text to speech yang telah disebutkan.
+
 Resources: 
 ==================
 - `nada dering wa suara google <https://whitepaper.co.id/cara-nada-dering-wa-suara-google/>`_
