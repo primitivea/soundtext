@@ -78,5 +78,4 @@ Contents
    :maxdepth: 2
 
    style-guide
-   iphone/index
-   en/latest/index
+   botika/index
