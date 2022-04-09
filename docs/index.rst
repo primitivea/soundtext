@@ -78,4 +78,4 @@ Contents
    :maxdepth: 2
 
    style-guide
-   nada dering/index
+   nada-dering/index
