@@ -87,7 +87,7 @@ Contents
 ********
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    style-guide
    nada-dering/index
