@@ -78,4 +78,4 @@ Contents
    :maxdepth: 2
 
    style-guide
-   botika/index
+   nada dering/index
